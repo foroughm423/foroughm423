@@ -1,11 +1,30 @@
-# 👋 Hi, I'm Forough Ghayyem
+👋 Hi, I'm Forough Ghayyem
 
-🎓 I'm passionate about AI, computer vision, and deep learning — especially applying them in healthcare to create real-world impact.
+🔬 AI/ML Engineer | Computer Vision & Medical Imaging
 
-🚀 Currently, I'm developing hands-on AI/ML projects to strengthen my portfolio and showcase practical skills.
+🎯 What I Do
 
-📊 I also share complete notebooks with outputs and visualizations on Kaggle:  
-👉 [View my Kaggle profile](https://www.kaggle.com/foroughgh95)
+I build production-ready deep learning solutions for healthcare using 
+TensorFlow, PyTorch, and modern deployment tools.
 
-📫 Connect with me:  
-[GitHub](https://github.com/foroughm423) | [LinkedIn](https://www.linkedin.com/in/forough-ghayyem/)
+🏆 Highlights
+
+📄 IEEE Published Paper (First Author, November 2024)
+🎓 MSc in Electrical Engineering – Device Electronics, K.N. Toosi University of Technology
+🚀 Deployed ML systems with Streamlit, Flask, Docker, and Hugging Face Hub
+
+🛠️ Tech Stack
+
+Frameworks: TensorFlow, PyTorch, Keras
+Deployment: Streamlit, Flask, Docker, Hugging Face Hub
+Tools: Python, Git, Jupyter, Kaggle
+
+🔗 Connect
+
+📧 forough.ghayyem@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/forough-ghayyem/)
+📊 [Kaggle](https://www.kaggle.com/foroughgh95)
+
+---
+
+💡 Check out my pinned repositories below for featured projects
