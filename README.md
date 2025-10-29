@@ -2,27 +2,26 @@
 
 🔬 AI/ML Engineer | Computer Vision & Medical Imaging
 
-🎯 What I Do
+## 🎯 What I Do
 
-I build production-ready deep learning solutions for healthcare using 
-TensorFlow, PyTorch, and modern deployment tools.
+I build production-ready deep learning solutions for healthcare using TensorFlow, PyTorch, and modern deployment tools.
 
-🏆 Highlights
+## 🏆 Highlights
 
-📄 IEEE Published Paper (First Author, November 2024)
-🎓 MSc in Electrical Engineering – Device Electronics, K.N. Toosi University of Technology
-🚀 Deployed ML systems with Streamlit, Flask, Docker, and Hugging Face Hub
+- 📄 IEEE Published Paper (First Author, November 2024)
+- 🎓 MSc in Electrical Engineering – Device Electronics, K.N. Toosi University of Technology
+- 🚀 Deployed ML systems with Streamlit, Flask, Docker, and Hugging Face Hub
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Frameworks: TensorFlow, PyTorch, Keras
-Deployment: Streamlit, Flask, Docker, Hugging Face Hub
-Tools: Python, Git, Jupyter, Kaggle
+**Frameworks:** TensorFlow, PyTorch, Keras  
+**Deployment:** Streamlit, Flask, Docker, Hugging Face Hub  
+**Tools:** Python, Git, Jupyter, Kaggle
 
-🔗 Connect
+## 🔗 Connect
 
-📧 forough.ghayyem@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/forough-ghayyem/)
+📧 forough.ghayyem@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/forough-ghayyem/)  
 📊 [Kaggle](https://www.kaggle.com/foroughgh95)
 
 ---
